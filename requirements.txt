@@ -1,1 +1,1 @@
-krill
+git+https://github.com/kyokley/krill.git
