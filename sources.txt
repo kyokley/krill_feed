@@ -1,5 +1,5 @@
 https://twitter.com/hashtag/programming python
-https://twitter.com/hashtag/python programming
+https://twitter.com/hashtag/python
 http://www.ozy.com/XmlServers/DailyDoseRSS.aspx
 http://www.engadget.com/rss.xml
 http://hackaday.com/feed/
@@ -12,5 +12,5 @@ http://feeds.wired.com/wired/index
 http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
 #http://seekingalpha.com/feed.xml
 http://seekingalpha.com/tag/cramers-picks.xml
-http://seekingalpha.com/tag/long-ideas.xml ^ || memorial
+http://seekingalpha.com/tag/long-ideas.xml
 https://twitter.com/pycoders
