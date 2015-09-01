@@ -14,3 +14,4 @@ http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
 http://seekingalpha.com/tag/cramers-picks.xml
 http://seekingalpha.com/tag/long-ideas.xml
 https://twitter.com/pycoders
+https://twitter.com/SwiftOnSecurity
