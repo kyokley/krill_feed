@@ -11,3 +11,4 @@ http://seekingalpha.com/tag/cramers-picks.xml
 http://seekingalpha.com/tag/long-ideas.xml
 https://twitter.com/pycoders
 https://twitter.com/SwiftOnSecurity
+https://twitter.com/sadserver
