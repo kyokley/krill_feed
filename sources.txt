@@ -3,14 +3,10 @@ https://twitter.com/hashtag/python
 http://www.ozy.com/XmlServers/DailyDoseRSS.aspx
 http://www.engadget.com/rss.xml
 http://hackaday.com/feed/
-#http://feeds.feedburner.com/LICD?format=xml
 http://lifehacker.com/index.xml 
 http://rss.slashdot.org/Slashdot/slashdot python || programming
-#http://rss.slashdot.org/Slashdot/slashdot 
 http://feeds.wired.com/wired/index
-#http://xkcd.com/rss.xml
 http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
-#http://seekingalpha.com/feed.xml
 http://seekingalpha.com/tag/cramers-picks.xml
 http://seekingalpha.com/tag/long-ideas.xml
 https://twitter.com/pycoders
