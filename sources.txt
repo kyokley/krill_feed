@@ -7,8 +7,17 @@ http://lifehacker.com/index.xml
 http://rss.slashdot.org/Slashdot/slashdot python || programming
 http://feeds.wired.com/wired/index
 http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
-http://seekingalpha.com/tag/cramers-picks.xml
-http://seekingalpha.com/tag/long-ideas.xml
+#http://seekingalpha.com/tag/cramers-picks.xml
+#http://seekingalpha.com/tag/long-ideas.xml
 https://twitter.com/pycoders
 https://twitter.com/SwiftOnSecurity
 https://twitter.com/sadserver
+https://twitter.com/elakdawalla
+https://twitter.com/wellerstein
+https://twitter.com/EricTopol
+https://twitter.com/amznmovierevws
+https://twitter.com/ambassadorpower
+https://twitter.com/thegrugq
+https://twitter.com/msquinn
+http://krebsonsecurity.com/
+http://blog.erratasec.com/
