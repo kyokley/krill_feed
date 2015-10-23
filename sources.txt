@@ -23,3 +23,4 @@ http://krebsonsecurity.com/
 http://blog.erratasec.com/
 https://twitter.com/pythontrending
 https://twitter.com/redsymbol
+https://twitter.com/climagic
