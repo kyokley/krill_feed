@@ -3,7 +3,7 @@ https://twitter.com/hashtag/python
 http://www.ozy.com/XmlServers/DailyDoseRSS.aspx
 http://www.engadget.com/rss.xml
 http://hackaday.com/feed/
-http://lifehacker.com/index.xml 
+http://lifehacker.com/index.xml
 http://rss.slashdot.org/Slashdot/slashdot python || programming
 http://feeds.wired.com/wired/index
 http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
@@ -24,3 +24,4 @@ http://blog.erratasec.com/
 https://twitter.com/pythontrending
 https://twitter.com/redsymbol
 https://twitter.com/climagic
+https://twitter.com/steveaschwarz
