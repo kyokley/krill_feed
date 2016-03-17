@@ -25,3 +25,5 @@ https://twitter.com/pythontrending
 https://twitter.com/redsymbol
 https://twitter.com/climagic
 https://twitter.com/steveaschwarz
+https://twitter.com/pycon
+https://twitter.com/dabeaz
