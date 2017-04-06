@@ -30,3 +30,4 @@ https://twitter.com/pycon
 https://twitter.com/dabeaz
 https://twitter.com/zachisms247
 http://feeds.feedburner.com/TheHackersNews
+https://blog.jessfraz.com/index.xml
