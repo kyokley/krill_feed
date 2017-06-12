@@ -1,0 +1,2 @@
+- Add slight variable delay to typewriter function
+- Restructure docker file to have base image that can be extended with feed sources
