@@ -1,17 +1,12 @@
-FROM tsutomu7/alpine-python
+FROM python:2.7-alpine
 
 RUN apk add --no-cache \
-	ca-certificates \
-	curl \
-	libressl
-
-RUN set -x \
-	&& apk add --no-cache --virtual .build-deps \
-		autoconf \
-		automake \
-		build-base \
-		curl-dev \
-		git
+        libffi-dev \
+		git \
+        gcc \
+	    ca-certificates \
+        musl-dev \
+        openssl-dev
 
 COPY requirements.txt /app/requirements.txt
 
