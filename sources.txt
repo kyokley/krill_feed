@@ -30,5 +30,7 @@ https://twitter.com/pycon
 https://twitter.com/dabeaz
 https://twitter.com/zachisms247
 https://twitter.com/citronresearch
+https://twitter.com/dbader_org
+https://twitter.com/jeffknupp
 http://feeds.feedburner.com/TheHackersNews
 https://blog.jessfraz.com/index.xml
