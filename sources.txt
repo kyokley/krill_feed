@@ -34,3 +34,4 @@ https://twitter.com/dbader_org
 https://twitter.com/jeffknupp
 http://feeds.feedburner.com/TheHackersNews
 https://blog.jessfraz.com/index.xml
+hackernews
