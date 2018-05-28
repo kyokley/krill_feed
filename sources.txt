@@ -6,7 +6,6 @@ http://hackaday.com/feed/
 http://feeds.kinja.com/lifehacker/vip.xml
 http://rss.slashdot.org/Slashdot/slashdot python || programming
 http://feeds.wired.com/wired/index
-http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
 #http://seekingalpha.com/tag/cramers-picks.xml
 #http://seekingalpha.com/tag/long-ideas.xml
 https://twitter.com/pycoders
