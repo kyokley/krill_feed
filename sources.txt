@@ -32,6 +32,9 @@ https://twitter.com/citronresearch
 https://twitter.com/dbader_org
 https://twitter.com/jeffknupp
 https://twitter.com/raymondh
+https://twitter.com/dev_humor
+https://twitter.com/developer_humor
+https://twitter.com/prohumorbot
 http://feeds.feedburner.com/TheHackersNews
 https://blog.jessfraz.com/index.xml
 hackernews
