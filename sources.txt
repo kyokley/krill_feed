@@ -35,6 +35,7 @@ https://twitter.com/raymondh
 https://twitter.com/dev_humor
 https://twitter.com/developer_humor
 https://twitter.com/prohumorbot
+https://twitter.com/optionsaction
 http://feeds.feedburner.com/TheHackersNews
 https://blog.jessfraz.com/index.xml
 hackernews
