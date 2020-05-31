@@ -6,8 +6,6 @@ http://hackaday.com/feed/
 http://feeds.kinja.com/lifehacker/vip.xml
 http://rss.slashdot.org/Slashdot/slashdot python || programming
 http://feeds.wired.com/wired/index
-#http://seekingalpha.com/tag/cramers-picks.xml
-#http://seekingalpha.com/tag/long-ideas.xml
 https://twitter.com/pycoders
 https://twitter.com/SwiftOnSecurity
 https://twitter.com/sadserver
@@ -39,3 +37,12 @@ https://twitter.com/optionsaction
 http://feeds.feedburner.com/TheHackersNews
 https://blog.jessfraz.com/index.xml
 hackernews
+https://www.reddit.com/r/linux/.rss
+https://www.reddit.com/r/ManjaroLinux/.rss
+https://www.reddit.com/r/HackBloc/.rss
+https://www.reddit.com/r/commandline/.rss
+https://www.reddit.com/r/linuxunplugged/.rss
+https://www.reddit.com/r/vim/.rss
+https://www.reddit.com/r/Python/.rss
+https://www.reddit.com/r/neovim/.rss
+https://www.reddit.com/r/hacking/.rss
