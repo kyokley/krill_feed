@@ -1,6 +1,0 @@
-#!/bin/sh
-if pgrep "^elinks$"; then                                                     
-    elinks -remote "openURL($*, new-tab)"
-else
-    terminator --command="elinks $*"
-fi
