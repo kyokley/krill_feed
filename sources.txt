@@ -17,8 +17,6 @@ https://twitter.com/ambassadorpower
 https://twitter.com/SamanthaJPower
 https://twitter.com/thegrugq
 https://twitter.com/msquinn
-http://krebsonsecurity.com/
-http://blog.erratasec.com/
 https://twitter.com/pythontrending
 https://twitter.com/redsymbol
 https://twitter.com/climagic
@@ -41,7 +39,6 @@ https://www.reddit.com/r/linux/.rss
 https://www.reddit.com/r/ManjaroLinux/.rss
 https://www.reddit.com/r/HackBloc/.rss
 https://www.reddit.com/r/commandline/.rss
-https://www.reddit.com/r/linuxunplugged/.rss
 https://www.reddit.com/r/vim/.rss
 https://www.reddit.com/r/Python/.rss
 https://www.reddit.com/r/neovim/.rss
