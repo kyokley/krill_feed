@@ -7,4 +7,4 @@ publish: build
 	docker push kyokley/krill
 
 run: build
-	docker run --rm -it kyokley/krill
+	docker run --rm -t kyokley/krill
