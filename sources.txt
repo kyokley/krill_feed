@@ -1,39 +1,10 @@
-https://twitter.com/hashtag/programming python || chicago
-https://twitter.com/hashtag/python
 https://www.engadget.com/rss.xml
 https://hackaday.com/feed/
 http://feeds.kinja.com/lifehacker/vip.xml
-http://rss.slashdot.org/Slashdot/slashdot python || programming
+http://rss.slashdot.org/Slashdot/slashdot python || programming || vim || nix
 https://feeds.wired.com/wired/index
-https://twitter.com/pycoders
-https://twitter.com/SwiftOnSecurity
-https://twitter.com/sadserver
-https://twitter.com/elakdawalla
-https://twitter.com/wellerstein
-https://twitter.com/EricTopol
-https://twitter.com/amznmovierevws
-https://twitter.com/ambassadorpower
-https://twitter.com/SamanthaJPower
-https://twitter.com/thegrugq
-https://twitter.com/msquinn
-https://twitter.com/pythontrending
-https://twitter.com/redsymbol
-https://twitter.com/climagic
-https://twitter.com/steveaschwarz
-https://twitter.com/pycon
-https://twitter.com/dabeaz
-https://twitter.com/zachisms247
-https://twitter.com/citronresearch
-https://twitter.com/dbader_org
-https://twitter.com/jeffknupp
-https://twitter.com/raymondh
-https://twitter.com/dev_humor
-https://twitter.com/developer_humor
-https://twitter.com/prohumorbot
-https://twitter.com/optionsaction
 http://feeds.feedburner.com/TheHackersNews
 https://blog.jessfraz.com/index.xml
-hackernews
 https://www.reddit.com/r/linux/.rss
 https://www.reddit.com/r/ManjaroLinux/.rss
 https://www.reddit.com/r/HackBloc/.rss
