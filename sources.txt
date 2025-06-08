@@ -1,6 +1,5 @@
 https://www.engadget.com/rss.xml
 https://hackaday.com/feed/
-http://feeds.kinja.com/lifehacker/vip.xml
 http://rss.slashdot.org/Slashdot/slashdot python || programming || vim || nix
 https://feeds.wired.com/wired/index
 https://x.com/pycoders
