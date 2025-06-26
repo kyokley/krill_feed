@@ -18,15 +18,4 @@ https://x.com/prohumorbot
 https://x.com/optionsaction
 http://feeds.feedburner.com/TheHackersNews
 https://blog.jessfraz.com/index.xml
-https://www.reddit.com/r/linux/.rss
-https://www.reddit.com/r/ManjaroLinux/.rss
-https://www.reddit.com/r/HackBloc/.rss
-https://www.reddit.com/r/commandline/.rss
-https://www.reddit.com/r/vim/.rss
-https://www.reddit.com/r/Python/.rss
-https://www.reddit.com/r/neovim/.rss
-https://www.reddit.com/r/nixos/.rss
-https://www.reddit.com/r/hacking/.rss
-https://www.reddit.com/r/vimdailytips/.rss
-https://www.reddit.com/r/linuxunplugged/.rss
-https://www.reddit.com/r/coolgithubprojects/.rss
+https://www.reddit.com/r/linux+ManjaroLinux+HackBloc+commandline+vim+Python+neovim+nixos+hacking+vimdailytips+linuxunplugged+coolgithubprojects/.rss
