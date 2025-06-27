@@ -1,7 +1,7 @@
 https://www.engadget.com/rss.xml
 https://hackaday.com/feed/
 http://rss.slashdot.org/Slashdot/slashdot python || programming || vim || nix
-https://feeds.wired.com/wired/index
+https://www.wired.com/feed/rss
 https://x.com/pycoders
 https://x.com/SwiftOnSecurity
 https://x.com/thegrugq
