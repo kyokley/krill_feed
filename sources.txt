@@ -2,20 +2,26 @@ https://www.engadget.com/rss.xml
 https://hackaday.com/feed/
 http://rss.slashdot.org/Slashdot/slashdot python || programming || vim || nix
 https://www.wired.com/feed/rss
-https://x.com/pycoders
-https://x.com/SwiftOnSecurity
-https://x.com/thegrugq
-https://x.com/msquinn
-https://x.com/pythontrending
-https://x.com/redsymbol
-https://x.com/climagic
-https://x.com/steveaschwarz
-https://x.com/pycon
-https://x.com/dbader_org
-https://x.com/jeffknupp
-https://x.com/raymondh
-https://x.com/prohumorbot
-https://x.com/optionsaction
 http://feeds.feedburner.com/TheHackersNews
-https://blog.jessfraz.com/index.xml
 https://www.reddit.com/r/linux+ManjaroLinux+HackBloc+commandline+vim+Python+neovim+nixos+hacking+vimdailytips+linuxunplugged+coolgithubprojects/.rss
+
+# CLIMagic
+https://bsky.app/profile/did:plc:j7fqqixfdiahxykf7uxueaea/rss
+
+# 404.bsky.social
+# https://bsky.app/profile/did:plc:iqrxfm2775dnqhsikncbo5bq/rss
+
+# NixOS Foundation
+https://bsky.app/profile/did:plc:bf43o4nxudgubwt4iljpayb7/rss
+
+# NeoVim.io
+https://bsky.app/profile/did:plc:635xovhsdw27inbgxukm3qtp/rss
+
+# Python Software Foundation
+https://bsky.app/profile/did:plc:sfrl4dmvaxeq4lqgaucotygo/rss
+
+# DEFCON
+https://bsky.app/profile/did:plc:lfsublvyskdxbofq3sl7bjkh/rss
+
+# Hackers on PLanet Earth
+https://bsky.app/profile/did:plc:z3frzi7263xv2f5kdp7vl26f/rss
