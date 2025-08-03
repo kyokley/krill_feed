@@ -8,7 +8,7 @@
   };
 
   # https://devenv.sh/packages/
-  packages = [];
+  packages = [pkgs.gnumake];
 
   # https://devenv.sh/languages/
   # languages.rust.enable = true;
